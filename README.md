@@ -1,8 +1,10 @@
 ### Olá, eu sou Luis Felipe de Almeida Vieira!
 <p>Tenho 18 anos, sou um programador full-stack, usando, principalmente, as tecnologias: HTML5, CSS3, JavaScript e PHP, além de React Native para desenvolvimento de aplicativos e C++ para desenvolvimento desktop. Sou apreciador de Software-Livre e, por isso, tento manter todos os meus projetos públicos</p>
 <div align="center">
+  <a href="https://github.com/ludovici-philippus">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=ludovici-philippus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludovici-philippus&layout=compact&langs_count=16&theme=algolia"/>
+  </a>
 </div>
 <h3>Tecnologias que eu gosto</h3>
 <div style="display: inline-flex; align:"center""><br>
